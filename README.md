@@ -1,4 +1,4 @@
-ESCRIB'IA (DATA PROJECT)
+# ESCRIB'IA (DATA PROJECT)
 
 Vous qui lisez ce document, avez-vous déjà rédigé un dossier ? La réponse est oui, bien évidemment. Que ce soit pour un exposé, un mémoire ou encore un projet personnel, cette « activité » est connue de tous. Il peut s'avérer difficile de trouver ces mots et avec les générations 2.0 le problème se fait encore plus ressentir. Mauvaise tournure de phrase, redondance, manque de vocabulaire,…
 
